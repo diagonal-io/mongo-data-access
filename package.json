@@ -1,0 +1,20 @@
+{
+  "name": "mongo-data-access",
+  "version": "1.0.0",
+  "description": "Data access for MongoDB databases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diagonal-io/mongo-data-access.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diagonal-io/mongo-data-access/issues"
+  },
+  "homepage": "https://github.com/diagonal-io/mongo-data-access#readme"
+}
