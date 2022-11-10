@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/diagonal-io/mongo-data-access#readme",
   "devDependencies": {
-    "@tsconfig/node12": "^1.0.11"
+    "@tsconfig/node12": "^1.0.11",
+    "typescript": "^4.8.4"
   },
   "dependencies": {
     "mongodb": "^4.11.0"
